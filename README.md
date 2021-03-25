@@ -1,1 +1,3 @@
-# Message_Generator
+# Message Generator
+
+Generates a random sentence.
